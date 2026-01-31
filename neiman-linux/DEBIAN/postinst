@@ -1,0 +1,4 @@
+#!/bin/sh
+cd /usr/share/neiman
+npm install --production
+chmod +x /usr/bin/neiman
