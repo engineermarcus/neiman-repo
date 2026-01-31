@@ -1,0 +1,7 @@
+Origin: Neiman Repository
+Label: Neiman
+Suite: termux
+Codename: termux
+Architectures: aarch64 all amd64
+Components: main
+Description: Neiman media downloader repository
