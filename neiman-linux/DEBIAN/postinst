@@ -1,4 +1,20 @@
 #!/bin/sh
+set -e
+
+echo "Installing dependencies..."
 cd /usr/share/neiman
-npm install --production
-chmod +x /usr/bin/neiman
+
+# Retry npm install up to 3 times with timeout handling
+for i in 1 2 3; do
+    if npm install --production --network-timeout=60000 2>&1; then
+        echo "Dependencies installed successfully"
+        chmod +x /usr/bin/neiman
+        exit 0
+    fi
+    echo "Attempt $i failed, retrying..."
+    sleep 2
+done
+
+echo "ERROR: Failed to install dependencies after 3 attempts"
+echo "Please run manually: cd /usr/share/neiman && npm install --production"
+exit 1

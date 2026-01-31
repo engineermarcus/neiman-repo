@@ -1,32 +1,32 @@
 Architectures: aarch64 amd64 all
 Codename: termux
 Components: main
-Date: Sat, 31 Jan 2026 19:06:53 +0000
+Date: Sat, 31 Jan 2026 19:12:30 +0000
 Description: Neiman media downloader repository
 Label: Neiman
 Origin: Neiman Repository
 Suite: termux
 MD5Sum:
- e61e8d8c579588b4411a036f1287b58c              207 Release
- f0d8054e87d93ec8fb5ba193fe2447b3              771 main/binary-aarch64/Packages
- c33e2a65d9af4123f9e5871a27e22262              438 main/binary-aarch64/Packages.gz
- f0d8054e87d93ec8fb5ba193fe2447b3              771 main/binary-amd64/Packages
- c33e2a65d9af4123f9e5871a27e22262              438 main/binary-amd64/Packages.gz
+ c742df958838fbd707d5fca5ecc183e5              207 Release
+ 82703d699a884c3794e3b49b3382799e              771 main/binary-aarch64/Packages
+ 09c016adc5f4b36640f862d9d31d8ccc              435 main/binary-aarch64/Packages.gz
+ 82703d699a884c3794e3b49b3382799e              771 main/binary-amd64/Packages
+ c535cc3a43aa43e4fae625862dba2f07              435 main/binary-amd64/Packages.gz
 SHA1:
- 565e488a627b1cbff0b81fd89f4a1b7ee958ae07              207 Release
- 4e690452026397d0e822661912a8700edcb34699              771 main/binary-aarch64/Packages
- faa4eeef69cd5bd5374f00b0306253f6c898aad7              438 main/binary-aarch64/Packages.gz
- 4e690452026397d0e822661912a8700edcb34699              771 main/binary-amd64/Packages
- faa4eeef69cd5bd5374f00b0306253f6c898aad7              438 main/binary-amd64/Packages.gz
+ 861498a8421ccf8c3f87ea748285f818e5b9ba7f              207 Release
+ 5c7d84ee775ced21e22900d647bf3595e75a369d              771 main/binary-aarch64/Packages
+ d92f2e1dcc9330a0c12d807cf0fecd5d5c54da2e              435 main/binary-aarch64/Packages.gz
+ 5c7d84ee775ced21e22900d647bf3595e75a369d              771 main/binary-amd64/Packages
+ 7e3a9b18672a424deea318eedf7e5ee4ab0706db              435 main/binary-amd64/Packages.gz
 SHA256:
- d251c6ce3ba23625f42fa2f3de3e48eca62f41d1df81bbbf8f639627a77f1d62              207 Release
- e55914297bdc6108db4e7df71e28a17695450823eb932b5669e8b5e44b51332b              771 main/binary-aarch64/Packages
- dc66d02b4a2712219a37dfc1684744b3fe336fe42d3300b9ede83f3c62baf548              438 main/binary-aarch64/Packages.gz
- e55914297bdc6108db4e7df71e28a17695450823eb932b5669e8b5e44b51332b              771 main/binary-amd64/Packages
- dc66d02b4a2712219a37dfc1684744b3fe336fe42d3300b9ede83f3c62baf548              438 main/binary-amd64/Packages.gz
+ 6f2d37d766e46773740eec574ebe573cd909f0e67082948c3791fc88d7619f2e              207 Release
+ 03f2ea6c37e23cb8384f280a3d51a8f41fe310b9930fd71b112640748c772096              771 main/binary-aarch64/Packages
+ e66e2430af912922e6b5ccf26f554b87ab22c9d909ce814786ac6403ef043b8a              435 main/binary-aarch64/Packages.gz
+ 03f2ea6c37e23cb8384f280a3d51a8f41fe310b9930fd71b112640748c772096              771 main/binary-amd64/Packages
+ 56fd5b574fe90b6c8e00921d51c2c07f2ece2736553c794cfd8e73f0294997d1              435 main/binary-amd64/Packages.gz
 SHA512:
- 5a8ee1660c4f3bd8e24fb1f4b6bd1931a8b29284df620df30e9099f0bb7716f3778b2caa4e68908e5c39b990bb85560bdd9c2bdfc595240782cfb6024b201957              207 Release
- feac2104b8cb7cba3a2c7c21624c3016f7fdfa591b6b79298628ab08142cf57a30ca31ca0e6097b5f6b665e74b3ef79377f54713c3eef2bc99a819c0db26dc66              771 main/binary-aarch64/Packages
- c97943cdddd3d54f7eb128607a449627c1a3a96746a5694ac72c9fba0efefefa808c6cf121d5afeb532cb872370a8f723e182ae47de30ec95de744b974655cbc              438 main/binary-aarch64/Packages.gz
- feac2104b8cb7cba3a2c7c21624c3016f7fdfa591b6b79298628ab08142cf57a30ca31ca0e6097b5f6b665e74b3ef79377f54713c3eef2bc99a819c0db26dc66              771 main/binary-amd64/Packages
- c97943cdddd3d54f7eb128607a449627c1a3a96746a5694ac72c9fba0efefefa808c6cf121d5afeb532cb872370a8f723e182ae47de30ec95de744b974655cbc              438 main/binary-amd64/Packages.gz
+ bf0f4307c23cac231fdab0e0023811450c81713baaf9f4e677ff2f34884a730f24d26db8b3f459bbab32a998c0df00bf188cf45c5b874ec63b94b3ab1206b51b              207 Release
+ 934304c2fc207b144d65705a0e0ff38454112e6fdfbb5a57e7cbc50ef01e020c954dbc9836c180e79a45310626b93482b2573736dfa2e97af8b3e242d5aca412              771 main/binary-aarch64/Packages
+ 9672ea872af93f3d8caa44ef2aec61cea7499706063ea3daf92b99d33ffb69065157fc7f3c8cb940fdb1a0f928265a00eea05a10295708eabfb898ba981530fd              435 main/binary-aarch64/Packages.gz
+ 934304c2fc207b144d65705a0e0ff38454112e6fdfbb5a57e7cbc50ef01e020c954dbc9836c180e79a45310626b93482b2573736dfa2e97af8b3e242d5aca412              771 main/binary-amd64/Packages
+ 177eefcaba94711fef5b6223ccd6e7f9de75772ec28455834de869fa9a0ddcc860f37b5baa2434b2c4a0c34aec9400f0c911e4a36c6b08e8fb9f77018ed7682c              435 main/binary-amd64/Packages.gz
