@@ -5,8 +5,8 @@ Maintainer: Neiman Marcus  engineermrcus@gmail.com
 Depends: nodejs, ffmpeg
 Filename: pool/main/neiman.deb
 Size: 47312
-MD5sum: 776dd3a5b1085839e2738073c8149a5c
-SHA1: 1cdcad77e9b717f304ef9573fe3de0bdcb833b80
-SHA256: 37652f4e33855e441cc5d4d25bf2a07f87108b5d9de64abbcd51de1d1256b697
+MD5sum: 7965e431c083d365a83218d9696c81ca
+SHA1: 885392017a483dad26c26784ac5b90add9455e7e
+SHA256: c06217e45b541108406e57af25b370b9f2610a4e5b63ab688625990899bc5430
 Description: Media downloader with web interface
 
