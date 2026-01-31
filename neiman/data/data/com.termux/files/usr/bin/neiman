@@ -1,0 +1,8 @@
+#!/data/data/com.termux/files/usr/bin/sh
+
+if [ "$1" = "run" ] && [ "$2" = "app" ]; then
+    cd /data/data/com.termux/files/usr/share/neiman
+    node main.js
+else
+    echo "Usage: neiman run app"
+fi

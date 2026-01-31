@@ -1,0 +1,4 @@
+#!/data/data/com.termux/files/usr/bin/sh
+cd /data/data/com.termux/files/usr/share/neiman
+npm install --production
+chmod +x /data/data/com.termux/files/usr/bin/neiman
