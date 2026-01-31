@@ -1,7 +1,13 @@
-Origin: Neiman Repository
-Label: Neiman
-Suite: termux
-Codename: termux
-Architectures: aarch64 all amd64
-Components: main
-Description: Neiman media downloader repository
+Date: Sat, 31 Jan 2026 18:57:41 +0000
+MD5Sum:
+ f0d8054e87d93ec8fb5ba193fe2447b3              771 Packages
+ 6986f67d72b50038e78c9fb7a26e9fda              438 Packages.gz
+SHA1:
+ 4e690452026397d0e822661912a8700edcb34699              771 Packages
+ bcbea20ffac5f607574f9fb95b90077f97e425c5              438 Packages.gz
+SHA256:
+ e55914297bdc6108db4e7df71e28a17695450823eb932b5669e8b5e44b51332b              771 Packages
+ ff1f9d6d9b4a82337a12fc8350ff67b7e01cd9e381ddb05a0db2399f85d160e4              438 Packages.gz
+SHA512:
+ feac2104b8cb7cba3a2c7c21624c3016f7fdfa591b6b79298628ab08142cf57a30ca31ca0e6097b5f6b665e74b3ef79377f54713c3eef2bc99a819c0db26dc66              771 Packages
+ 8669f078cecbe9f6971851db3587cee5096ecba2906803f1bd016c9db4f3a4e947dbeac35f2c42dda704221f8914b1d6607e89538529cf91e1ed2f3b9fcd3586              438 Packages.gz
