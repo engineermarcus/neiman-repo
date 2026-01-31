@@ -1,24 +1,31 @@
-Origin: Neiman Repository
-Label: Neiman
-Suite: termux
-Codename: termux
 Architectures: aarch64 amd64 all
+Codename: termux
 Components: main
+Date: Sat, 31 Jan 2026 19:03:13 +0000
 Description: Neiman media downloader repository
+Label: Neiman
+Origin: Neiman Repository
+Suite: termux
+MD5Sum:
+ d1657b3958228fa436f293f18bc08474              207 Release
+ f0d8054e87d93ec8fb5ba193fe2447b3              771 main/binary-aarch64/Packages
+ 6986f67d72b50038e78c9fb7a26e9fda              438 main/binary-aarch64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-amd64/Packages
+ a01749c77d319eb3f3125bbe9782c630               29 main/binary-amd64/Packages.gz
 SHA1:
- bcecb1c2e72e47f3acb2cb073cbef5b6d34d84bf              169 Release
+ bbba70db364ca96c64102a2c18ed0a2d6ffb1076              207 Release
  4e690452026397d0e822661912a8700edcb34699              771 main/binary-aarch64/Packages
  bcbea20ffac5f607574f9fb95b90077f97e425c5              438 main/binary-aarch64/Packages.gz
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-amd64/Packages
  aec484ba8cb5f1de78ec420dd3b877f1c21c8427               29 main/binary-amd64/Packages.gz
 SHA256:
- 0c14fcc92995fe703663654b69d788ac5156ba60058f33805bc1107415453cc2              169 Release
+ d088062efce3658cbbdcce20e6332401bf2236c7fd46f386d02cec25e0c290db              207 Release
  e55914297bdc6108db4e7df71e28a17695450823eb932b5669e8b5e44b51332b              771 main/binary-aarch64/Packages
  ff1f9d6d9b4a82337a12fc8350ff67b7e01cd9e381ddb05a0db2399f85d160e4              438 main/binary-aarch64/Packages.gz
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-amd64/Packages
  7c96e1a1a6245feeb018ed6112684292f6f97726f8dfdb4a9de446b330f64c5e               29 main/binary-amd64/Packages.gz
 SHA512:
- eba2ea810d7346b048264b309cb46cc278002131b3f7bc41e1d118e71bc74d8355404cf447dbda856e91244d1b85a56a3c465c3bdf2c499bcb001b8a20242b6c              169 Release
+ d45ffb8a2c267ddf00f68fd141c5f527ba3cc02e019503b3e49bfdaa4e18348828d84dbcd1e0ec8bdec4abfc199fc7c13279d4a3e8848e9e7446a0eb3d410f91              207 Release
  feac2104b8cb7cba3a2c7c21624c3016f7fdfa591b6b79298628ab08142cf57a30ca31ca0e6097b5f6b665e74b3ef79377f54713c3eef2bc99a819c0db26dc66              771 main/binary-aarch64/Packages
  8669f078cecbe9f6971851db3587cee5096ecba2906803f1bd016c9db4f3a4e947dbeac35f2c42dda704221f8914b1d6607e89538529cf91e1ed2f3b9fcd3586              438 main/binary-aarch64/Packages.gz
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-amd64/Packages
