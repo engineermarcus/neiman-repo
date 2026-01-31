@@ -1,0 +1,12 @@
+Package: neiman
+Version: 1.0.0
+Architecture: aarch64
+Maintainer: Your Name <your@email.com>
+Depends: nodejs, ffmpeg
+Filename: pool/main/neiman.deb
+Size: 47288
+MD5sum: 5dc289259a77d48ee982771aad01c2b1
+SHA1: f92e7193f6cbbc5af49964783a488d609da239de
+SHA256: 2b6164c5ce93b0342e738ef61cf3ed73dd520c6f28f4c60735cd93f7f8ddfc6b
+Description: Media downloader with web interface
+
