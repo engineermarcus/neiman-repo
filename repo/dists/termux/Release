@@ -1,32 +1,32 @@
 Architectures: aarch64 amd64 all
 Codename: termux
 Components: main
-Date: Sat, 31 Jan 2026 19:03:13 +0000
+Date: Sat, 31 Jan 2026 19:06:53 +0000
 Description: Neiman media downloader repository
 Label: Neiman
 Origin: Neiman Repository
 Suite: termux
 MD5Sum:
- d1657b3958228fa436f293f18bc08474              207 Release
+ e61e8d8c579588b4411a036f1287b58c              207 Release
  f0d8054e87d93ec8fb5ba193fe2447b3              771 main/binary-aarch64/Packages
- 6986f67d72b50038e78c9fb7a26e9fda              438 main/binary-aarch64/Packages.gz
- d41d8cd98f00b204e9800998ecf8427e                0 main/binary-amd64/Packages
- a01749c77d319eb3f3125bbe9782c630               29 main/binary-amd64/Packages.gz
+ c33e2a65d9af4123f9e5871a27e22262              438 main/binary-aarch64/Packages.gz
+ f0d8054e87d93ec8fb5ba193fe2447b3              771 main/binary-amd64/Packages
+ c33e2a65d9af4123f9e5871a27e22262              438 main/binary-amd64/Packages.gz
 SHA1:
- bbba70db364ca96c64102a2c18ed0a2d6ffb1076              207 Release
+ 565e488a627b1cbff0b81fd89f4a1b7ee958ae07              207 Release
  4e690452026397d0e822661912a8700edcb34699              771 main/binary-aarch64/Packages
- bcbea20ffac5f607574f9fb95b90077f97e425c5              438 main/binary-aarch64/Packages.gz
- da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-amd64/Packages
- aec484ba8cb5f1de78ec420dd3b877f1c21c8427               29 main/binary-amd64/Packages.gz
+ faa4eeef69cd5bd5374f00b0306253f6c898aad7              438 main/binary-aarch64/Packages.gz
+ 4e690452026397d0e822661912a8700edcb34699              771 main/binary-amd64/Packages
+ faa4eeef69cd5bd5374f00b0306253f6c898aad7              438 main/binary-amd64/Packages.gz
 SHA256:
- d088062efce3658cbbdcce20e6332401bf2236c7fd46f386d02cec25e0c290db              207 Release
+ d251c6ce3ba23625f42fa2f3de3e48eca62f41d1df81bbbf8f639627a77f1d62              207 Release
  e55914297bdc6108db4e7df71e28a17695450823eb932b5669e8b5e44b51332b              771 main/binary-aarch64/Packages
- ff1f9d6d9b4a82337a12fc8350ff67b7e01cd9e381ddb05a0db2399f85d160e4              438 main/binary-aarch64/Packages.gz
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-amd64/Packages
- 7c96e1a1a6245feeb018ed6112684292f6f97726f8dfdb4a9de446b330f64c5e               29 main/binary-amd64/Packages.gz
+ dc66d02b4a2712219a37dfc1684744b3fe336fe42d3300b9ede83f3c62baf548              438 main/binary-aarch64/Packages.gz
+ e55914297bdc6108db4e7df71e28a17695450823eb932b5669e8b5e44b51332b              771 main/binary-amd64/Packages
+ dc66d02b4a2712219a37dfc1684744b3fe336fe42d3300b9ede83f3c62baf548              438 main/binary-amd64/Packages.gz
 SHA512:
- d45ffb8a2c267ddf00f68fd141c5f527ba3cc02e019503b3e49bfdaa4e18348828d84dbcd1e0ec8bdec4abfc199fc7c13279d4a3e8848e9e7446a0eb3d410f91              207 Release
+ 5a8ee1660c4f3bd8e24fb1f4b6bd1931a8b29284df620df30e9099f0bb7716f3778b2caa4e68908e5c39b990bb85560bdd9c2bdfc595240782cfb6024b201957              207 Release
  feac2104b8cb7cba3a2c7c21624c3016f7fdfa591b6b79298628ab08142cf57a30ca31ca0e6097b5f6b665e74b3ef79377f54713c3eef2bc99a819c0db26dc66              771 main/binary-aarch64/Packages
- 8669f078cecbe9f6971851db3587cee5096ecba2906803f1bd016c9db4f3a4e947dbeac35f2c42dda704221f8914b1d6607e89538529cf91e1ed2f3b9fcd3586              438 main/binary-aarch64/Packages.gz
- cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-amd64/Packages
- 33336926b2df8429afccd7abc71888ef7e49d82555caee0c24d8d6e36338bd49b0471f6feebf2b039a479382c702d0f6a2df67b45309bf4c6b6f0ae6133a9d01               29 main/binary-amd64/Packages.gz
+ c97943cdddd3d54f7eb128607a449627c1a3a96746a5694ac72c9fba0efefefa808c6cf121d5afeb532cb872370a8f723e182ae47de30ec95de744b974655cbc              438 main/binary-aarch64/Packages.gz
+ feac2104b8cb7cba3a2c7c21624c3016f7fdfa591b6b79298628ab08142cf57a30ca31ca0e6097b5f6b665e74b3ef79377f54713c3eef2bc99a819c0db26dc66              771 main/binary-amd64/Packages
+ c97943cdddd3d54f7eb128607a449627c1a3a96746a5694ac72c9fba0efefefa808c6cf121d5afeb532cb872370a8f723e182ae47de30ec95de744b974655cbc              438 main/binary-amd64/Packages.gz
