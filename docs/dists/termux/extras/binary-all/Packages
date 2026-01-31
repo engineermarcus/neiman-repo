@@ -1,0 +1,13 @@
+Package: neiman
+Version: 1.1.0
+Architecture: all
+Maintainer: Marcus
+Depends: nodejs, ffmpeg, python, pkg-config, cairo, pango, libjpeg-turbo, libpng, librsvg, pixman, giflib, build-essential
+Description: Neiman - Advanced TikTok and YouTube Downloader
+Filename: dists/termux/extras/binary-all/neiman.deb
+Size: 1308
+MD5Sum: e70f8efa30baeaf35ea6bd215bc33903
+SHA1: 994174d25c2bef6a9404adb13561d700893ca3ec
+SHA256: e506017cfa1a6891c706a453ead69de61c6a38d0bdcd7e1d47d949e581e7a8b0
+SHA512: 36a2d78602958a5404558ba117255b09a11d42bf4a0f89b491443815366250371598eed993fd0404b215d689737561cde93d7f457335c5448cbfd593b8793738
+
